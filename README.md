@@ -1,6 +1,6 @@
 
 # 🧩 AEM Component & Clientlib Generator
-
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange?style=flat-square)](https://www.buymeacoffee.com/pradeep0573)
 A powerful VS Code extension that accelerates AEM component development by generating complete component structures with TouchUI dialogs, Sightly/HTL templates, and proper `sling:resourceType` configurations.
 
 ---
