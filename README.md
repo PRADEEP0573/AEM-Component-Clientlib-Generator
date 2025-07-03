@@ -108,13 +108,13 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 ## 👨‍💻 About the Author
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/112626871?v=4" width="120" style="border-radius: 50%" alt="Pradeep Sapparapu"><br><br>
+  <img src="images/vscode.jpeg" width="120" style="border-radius: 50%" alt="Pradeep Sapparapu"><br><br>
   <strong>Pradeep Sapparapu</strong><br>
   <i>"I created this tool to speed up AEM development for everyone.  
 It's 100% free and open-source — share it with your team!"</i><br><br>
   <i>Made with ❤️ in Andhra Pradesh, India 🇮🇳</i><br>
   🔗 <a href="https://github.com/PRADEEP0573/AEM-Component-Clientlib-Generator">GitHub</a> • 
-  📧 <a href="mailto:your@email.com">Email Me</a>  
+  📧 <a href="mailto:pradeepdeep057@gmail.com">Email Me</a>  
 </p>
 
 ---
