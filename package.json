@@ -1,0 +1,83 @@
+{
+    "name": "aem-component-generator",
+    "displayName": "AEM Component Generator",
+    "description": "Generates AEM component structures including TouchUI dialogs and Sightly/HTL templates and sling:resourceType configuration.",
+    "version": "0.0.1",
+    "publisher": "padde software",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.101.0"
+    },
+    "keywords": [
+        "AEM",
+        "Adobe Experience Manager",
+        "JCR",
+        "CRX",
+        "CMS",
+        "Component",
+        "Sightly",
+        "HTL",
+        "TouchUI",
+        "Sling",
+        "Java",
+        "JavaScript",
+        "Node.js",
+        "Node",
+        "VSCode",
+        "Visual Studio Code",
+        "Extension",
+        "Plugin",
+        "Development",
+        "Generator",
+        "Builder",
+        "Template",
+        "Project",
+        "Boilerplate",
+        "Boilerplate Code",
+        "Code Generator",
+        "Code Builder",
+        "Code Template",
+        "Code Project",
+        "Code Boilerplate",
+        "Code Generator Extension",
+        "Code Builder Extension",
+        "Code Template Extension",
+        "Code Project Extension"
+    ],
+    "icon": "images/icon.jpg",
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "onCommand:extension.buildAEMComponent"
+    ],
+    "main": "./extension",
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.buildAEMComponent",
+                "title": "Generate AEM Component"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/padde-software/aem-component-generator"
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "node ./node_modules/vscode/bin/test"
+    },
+    "devDependencies": {
+        "typescript": "^2.6.1",
+        "vscode": "^1.1.21",
+        "eslint": "^4.11.0",
+        "@types/node": "^8.10.25",
+        "@types/mocha": "^2.2.42"
+    },
+    "dependencies": {
+        "chokidar": "^2.0.4",
+        "fs-extra": "^7.0.1",
+        "replace-in-file": "^3.4.3"
+    }
+}
