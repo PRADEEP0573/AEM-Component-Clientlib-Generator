@@ -1,7 +1,9 @@
-
 # 🧩 AEM Component & Clientlib Generator
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange?style=flat-square)](https://www.buymeacoffee.com/pradeep0573)
+
 A powerful VS Code extension that accelerates AEM component development by generating complete component structures with TouchUI dialogs, Sightly/HTL templates, and proper `sling:resourceType` configurations.
+<div align="right">
+<a href="https://www.buymeacoffee.com/FilesCompareMaster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=😍&slug=FilesCompareMaster&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="150" title="Buy me a coffee"></a>
+</div>
 
 ---
 
@@ -121,3 +123,6 @@ It's 100% free and open-source — share it with your team!"</i><br><br>
 
 If you find this tool helpful, please ⭐ star the repository and share it with your team!  
 You can also [follow me on GitHub](https://github.com/PRADEEP0573/AEM-Component-Clientlib-Generator) for more AEM tools and updates.
+<div style="float: right; margin-top: -20px; margin-bottom: 20px;">
+<a href="https://www.buymeacoffee.com/FilesCompareMaster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=😍&slug=FilesCompareMaster&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="150" title="Buy me a coffee"></a>
+</div>
