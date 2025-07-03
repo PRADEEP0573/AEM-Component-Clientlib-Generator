@@ -1,4 +1,4 @@
-# 🧩 AEM Component & Clientlib Generator
+#  AEM Component & Clientlib Generator
 
 A powerful VS Code extension that accelerates AEM component development by generating complete component structures with TouchUI dialogs, Sightly/HTL templates, and proper `sling:resourceType` configurations.
 <div align="right">
