@@ -99,7 +99,7 @@ If you have suggestions, issues, or ideas, feel free to open an issue or submit 
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/PRADEEP0573/AEM-Component-Clientlib-Generator/blob/main/LICENSE) file for details.
 
 ---
 
