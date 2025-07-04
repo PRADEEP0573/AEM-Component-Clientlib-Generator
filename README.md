@@ -1,6 +1,7 @@
-#  AEM Component & Clientlib Generator
+# AEM Component & Clientlib Generator
 
 A powerful VS Code extension that accelerates AEM component development by generating complete component structures with TouchUI dialogs, Sightly/HTL templates, and proper `sling:resourceType` configurations.
+
 <div align="right">
 <a href="https://www.buymeacoffee.com/FilesCompareMaster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=😍&slug=FilesCompareMaster&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="150" title="Buy me a coffee"></a>
 </div>
@@ -39,7 +40,7 @@ A powerful VS Code extension that accelerates AEM component development by gener
    - Choose a clientlib (Yes/No)
    - Select the Create option.
 
-![Usage Screenshot](https://github.com/PRADEEP0573/aem-component-generator/assets/112626871/2b2b2b2b-2b2b-2b2b-2b2b-2b2b2b2b2b2b)
+![Usage Demo](images/demo.gif)
 
 ---
 
@@ -47,24 +48,15 @@ A powerful VS Code extension that accelerates AEM component development by gener
 
 Here’s the structure of a generated component named `mycomponent`:
 
-```mermaid
-graph TD
-    A[mycomponent/] --> B[_cq_dialog/]
-    A --> C[_cq_editConfig.xml]
-    A --> D[_cq_template.html]
-    A --> E[_cq_htmlTag]
-    A --> F[.content.xml]
-    A --> G[mycomponent.html]
-    B --> H[.content.xml]
-```
+![Usage Demo](images/structure.png)
 
 This creates a complete AEM component with:
 
-- TouchUI dialog configuration  
-- Edit configuration  
-- HTML template  
-- Resource type mapping  
-- Component metadata  
+- TouchUI dialog configuration
+- Edit configuration
+- HTML template
+- Resource type mapping
+- Component metadata
 
 ---
 
@@ -94,7 +86,7 @@ This creates a complete AEM component with:
 
 ## 🤝 Contributing
 
-Contributions are welcome!  
+Contributions are welcome!
 If you have suggestions, issues, or ideas, feel free to open an issue or submit a Pull Request.
 
 ---
@@ -114,15 +106,16 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 It's 100% free and open-source — share it with your team!"</i><br><br>
   <i>Made with ❤️ in Andhra Pradesh, India 🇮🇳</i><br>
   🔗 <a href="https://github.com/PRADEEP0573/AEM-Component-Clientlib-Generator">GitHub</a> • 
-  📧 <a href="mailto:pradeepdeep057@gmail.com">Email Me</a>  
+  📧 <a href="mailto:your@email.com">Email Me</a>  
 </p>
 
 ---
 
 ## 🙏 Support
 
-If you find this tool helpful, please ⭐ star the repository and share it with your team!  
+If you find this tool helpful, please ⭐ star the repository and share it with your team!
 You can also [follow me on GitHub](https://github.com/PRADEEP0573/AEM-Component-Clientlib-Generator) for more AEM tools and updates.
+
 <div style="float: right; margin-top: -20px; margin-bottom: 20px;">
 <a href="https://www.buymeacoffee.com/FilesCompareMaster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=😍&slug=FilesCompareMaster&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="150" title="Buy me a coffee"></a>
 </div>
